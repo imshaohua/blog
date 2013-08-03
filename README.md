@@ -1,4 +1,6 @@
-blog
-====
+Visit http://github.com/wendal/gor
 
-blog
+## License
+
+Released under the [MIT License](http://www.opensource.org/licenses/MIT)
+

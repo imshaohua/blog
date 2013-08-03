@@ -1,0 +1,16 @@
+title : imshaohua
+tagline: Impossible is nothing
+author :
+  name : imshaohua
+  email : isaac.hu@163.com
+  github : imshaohua
+  twitter : imshaohua@weibo
+  feedburner : feedname
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
