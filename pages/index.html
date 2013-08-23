@@ -1,13 +1,23 @@
 ---
-title: 首页
+title: Home
 description:
 ---
 
-<h2>Gor已经为了编译成功了</h2>
+<h2>欢迎来我的杂草地</h2>
+<p>
+  没事就来这个地方发泄一下，记录一下心情，同时还可以写写最近的读书笔记或者记录玩的心得
+</p>
 <p>
   这段文字位于pages/index.html ,使用以下命令获取帮助或访问gor官网
 </p>
-<pre><code>$ gor help</code></pre>
+<pre><code>gor post "goodday" [dir/to/img/files]
+#即可生成 post/goodday.md文件, 打开你的markdown编辑器即可编写
+gor compile
+#瞬间完成,生成compiled文件夹,包含站点所有资源
+gor http
+#打开你的浏览器,访问 http://127.0.0.1:8080
+gor help
+#gor帮助</code></pre>
 
 
 <h2>最近更新</h2>
