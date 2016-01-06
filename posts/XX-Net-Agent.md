@@ -1,3 +1,15 @@
+---
+date: 2016-01-05
+layout: post
+title: XX-Net-Agent 代理用法，替代了goagent
+permalink: '/2016/xx-net-agent.html'
+categories:
+- Gogent
+- Blog
+tags:
+- Gogent
+---
+
 title: XX-Net-Agent 代理用法，替代了goagent
 date: 2016-01-05 22:52:28
 categories: agent
