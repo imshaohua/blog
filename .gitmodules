@@ -1,3 +1,3 @@
-[submodule "imshaohua.github.io"]
+[submodule "compiled"]
 	path = compiled
 	url = https://github.com/imshaohua/imshaohua.github.com.git
