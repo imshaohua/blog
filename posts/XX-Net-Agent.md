@@ -12,21 +12,21 @@ tags:
 
 ---
 
-## [接力GoAgent翻墙工具]
+## 接力GoAgent
 [XX-Net Anti-censor tools](https://github.com/XX-net/XX-Net)
 
 ## 使用方法
 XX-Net-Agent 代理，替代了goagent [XX-Net 使用方法](https://github.com/XX-net/XX-Net/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
 
 
-## 创建app
+## 创建GAE
 如果仅仅是看看新闻，翻翻墙，上上facebook，逛逛twitter，那就skip吧
 
 如果需要看视频或者下载文件，必须用自己google agent的appids.  
 [how to create my appids](https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids)  
 
 
-## 创建app的注意事项 
+## 创建GAE的注意事项 
 google账号需要开通验证服务：[Google's two-step verification page](https://www.google.com/landing/2step/)
 
 ### 参考下面的链接：
