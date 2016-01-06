@@ -1,11 +1,13 @@
 ---
 title: 在项目的日子里
 date: '2013-08-23'
+permalink: '/2013/days-in-project.html'
 description:
 categories:
 - Blog
 tags:
 - Life
+
 ---
 
 # 卖到项目组干活 #

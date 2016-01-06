@@ -7,14 +7,9 @@ categories:
 - Gogent
 - Blog
 tags:
-- Gogent
----
+- Goagent
+- agent
 
-title: XX-Net-Agent 代理用法，替代了goagent
-date: 2016-01-05 22:52:28
-categories: agent
-tags: agent
-description: XX-Net-Agent 代理，替代了goagent
 ---
 
 ## [接力GoAgent翻墙工具]
