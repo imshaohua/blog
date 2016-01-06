@@ -4,7 +4,7 @@ layout: post
 title: XX-Net-Agent 代理用法，替代了goagent
 permalink: '/2016/xx-net-agent.html'
 categories:
-- Gogent
+- Goagent
 - Blog
 tags:
 - Goagent
